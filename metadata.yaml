@@ -1,0 +1,27 @@
+_repo: Letter-to-the-Friends-and-Subscribers-of-the-Church-Pastoral-Aid-Society-occasioned-by-a-lett__62144
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitefoord, Caleb, Rev.
+    alias: Whitefoord, Rev. Caleb
+    birthdate: 1805
+    deathdate: 1890
+    gutenberg_agent_id: '51791'
+    url: http://www.gutenberg.org/2009/agents/51791
+description: ''
+gutenberg_issued: '2020-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62144'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BV'
+- !lcsh 'Church Pastoral Aid Society'
+- GITenberg
+title: 'Letter to the Friends and Subscribers of the Church Pastoral-Aid Society
+
+  occasioned by a letter from the Rev. Dr. Molesworth'
+url: http://www.gutenberg.org/ebooks/62144
